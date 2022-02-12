@@ -1,1 +1,3 @@
-# Huseyin-Karadana
+### Hi there 👋
+
+I'm Hüseyin from Turkey, and I do content on Desing and Development.I really enjoy learning HTML,CSS,C#,java and javaScript languages.I also like UI design in general.You can check out my instagram .... and youtube ....
